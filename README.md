@@ -2,7 +2,7 @@
 
 ### Data Analyst / Data Science Student
 
-I'm a 2nd-year student passionate about **data analysis, Python, and turning data into useful insights**.
+I'm a 3nd-year student passionate about **data analysis, Python, and turning data into useful insights**.
 
 Currently learning and building projects with:
 
