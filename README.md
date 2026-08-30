@@ -23,14 +23,6 @@ Currently learning and building projects with:
 - 🤖 Machine Learning fundamentals
 - 📚 Building a portfolio for a Data Analyst / Data Science internship
 
-## ⭐ Featured projects
-
-### 🎬 [MovieLens Analytics](https://github.com/skylar999/MovieLens-Analytics)
-Analytical Python project based on the MovieLens dataset — movies, ratings, users, tags, and external identifiers.
-
-### 📈 [Basic Statistics](https://github.com/skylar999/basic_stat)
-Notes and practice from a statistics course.
-
 ## 🎯 Goals
 
 > Learn. Build. Analyze. Improve.
