@@ -36,7 +36,7 @@ I'm focused on becoming a strong **Machine Learning Engineer** with a solid foun
 ## 📫 Contact
 
 * GitHub: [@skylar999](https://github.com/skylar999)
-
+* Telegram: @skylar281
 ---
 
 *Always learning and building something new.*
