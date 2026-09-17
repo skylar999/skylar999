@@ -9,8 +9,10 @@ Currently learning and building projects with:
 * 🐍 Python
 * 🐼 Pandas
 * 🗄️ SQL
+* 🔢 NumPy
 * 📊 Matplotlib
 * 🤖 Scikit-learn
+* 🎨 Seaborn
 * 🔥 PyTorch
 * 📓 Jupyter Notebook
 * 🐧 Linux / Bash
