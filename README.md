@@ -20,8 +20,7 @@ Currently learning and building projects with:
 - 📊 Data Analytics & Exploratory Data Analysis
 - 🐍 Python projects
 - 🗄️ SQL & data manipulation
-- 🤖 Machine Learning fundamentals
-- 📚 Building a portfolio for a Data Analyst / Data Science internship
+- 🤖 Machine Learning
 
 ## 🎯 Goals
 
